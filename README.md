@@ -1,11 +1,11 @@
-[![npm Version](https://badgen.net/npm/v/homebridge-dummy-thermostat)](https://www.npmjs.com/package/homebridge-dummy-thermostat)
+[![npm Version](https://badgen.net/npm/v/dummyThermostSetable)](https://www.npmjs.com/package/dummyThermostSetable)
 
-# homebridge-dummy-thermostat
+# dummyThermostSetable
 Plugin for homebridge to create a fake thermostat accessory
 ## Installation
 
 1. Install [homebridge](https://github.com/nfarina/homebridge#installation-details)
-2. Install this plugin: `npm install -g homebridge-dummy-thermostat`
+2. Install this plugin: `npm install -g dummyThermostSetable`
 3. Edit your `config.json` file (See below).
 
 ## Configuration example
